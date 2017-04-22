@@ -1,4 +1,1 @@
-#this if first dummy entry file #
-First dummy test change
-# oc
-# oc
+# This Repo is for OpenShift Origin installation on CentOS 7 #
